@@ -1,1 +1,5 @@
-console.log("NEXORA started");
+setTimeout(() => {
+
+    console.log("NEXORA menu ready");
+
+}, 2500);
